@@ -11,7 +11,6 @@ The Langchain Agro Bot is a powerful tool designed to provide Agro information b
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Prerequisites
