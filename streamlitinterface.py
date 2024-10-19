@@ -1,6 +1,5 @@
 import os
 import streamlit as st
-from dotenv import load_dotenv
 from streamlit_extras.add_vertical_space import add_vertical_space
 import google.generativeai as genai
 from PyPDF2 import PdfReader
