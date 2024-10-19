@@ -1,7 +1,7 @@
-# Agro Bot trained for HackwithMAIT 4.0
+# FarmoBot trained using NLP
 
 
-The Langchain Agro Bot is a powerful tool designed to provide Agro information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Langchain Agro Bot.
+The Langchain FarmoBot Is a powerful tool designed to provide Agro information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Langchain Agro Bot.
 
 ## Table of Contents
 
